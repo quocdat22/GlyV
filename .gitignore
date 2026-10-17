@@ -1,0 +1,30 @@
+# Input & Artifacts
+artifacts/
+input/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+
+# Testing & Cache
+.pytest_cache/
+.coverage
+
+# Local source documents and font binaries, wherever copied
+*.[pP][dD][fF]
+*.[oO][tT][fF]
+*.[tT][tT][fF]
+*.[tT][tT][cC]
+*.[wW][oO][fF][fF]
+*.[wW][oO][fF][fF]2
+*.[cC][fF][fF]
+*.[pP][fF][aAbB]
+*.bin
+
+# Local credentials
+.env
+.env.*
+!.env.example

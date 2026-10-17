@@ -1,0 +1,5 @@
+fonttools
+pikepdf
+Pillow
+uharfbuzz
+fontbakery
